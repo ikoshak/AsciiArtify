@@ -36,4 +36,4 @@ So as you can see k3d has advantages. Kd3 needs to start only 512 MB RAM. Howeve
 
 ##Short Demo - deploying container in K3d cluster
 
-![Image](ikote_demo.gif)
+![Image](../ikote_demo.gif)
