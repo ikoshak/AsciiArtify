@@ -13,7 +13,7 @@
    cp kubeplugin /path/to/directory
    ```
 2. Set execution mod for plugin file
-  ```bash
+   ```bash
    chmod +x kubeplugin
    ```
 3. Run plugin with needed parameters. In our case parameter is "RESOURCE_TYPE" - node or pod, "NAMESPACE" [Example]
